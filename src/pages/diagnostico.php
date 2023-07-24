@@ -34,7 +34,7 @@ if (
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diagnóstico</title>
-    <link rel="stylesheet" href="../../public/css/diagnóstico.css">
+    <link rel="stylesheet" href="https://anderson0205.github.io/sistemas-expertos/public/css/diagnóstico.css">
 </head>
 
 <body>
